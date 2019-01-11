@@ -1,0 +1,69 @@
+1 16 dmg 45speed
+2 40 dmg 2 speed 
+1:
+
+Ranged
+Firesweep
+defender has weapon
+
+12:
+Both are melee
+Both are ranged
+Melee Defender has distant counter for ranged attacker
+Ranged Defender has close counter for melee attacker
+
+112:
+attacker has brave weapon
+Both are melee
+Both are ranged
+Melee Defender has distant counter for ranged attacker
+Ranged Defender has close counter for melee attacker
+
+
+1 
+  >If attacker is ranged vs melee no distant counter 1
+  >if attacker is melee vs ranged no close counter 1
+  >If attacker has >5 spd attacks twice 11
+  >if unit has breaker attacks twice 11
+  >If def has breaker attacks one time 1
+    
+12  
+  >if attacker/defender has breaker skill unit attacks twice and foe cannot 121/122
+    >if both units have breaker the >speed attacks twice 121/122
+    
+  >if attacker has brash assault && defender has quick riposte 1212
+    >else if attacker has brash assault attacker attacks twice 121
+    >else if defender has quick riposte defender attacks twice 122
+ 
+  >if attacker has >5 spd attacks twice after def and def cannot counterattack 121
+  >if defender has >5 spd attacks twice and atk cannot counterattack 122
+  >else nothing 12
+  
+21
+  >if attacker/defender has breaker skill unit attacks twice and foe cannot 212/211
+    >if both units have breaker the >speed attacks twice 211/212
+    
+  >if attacker has brash assault && defender has quick riposte 2121
+    >else if attacker has brash assault attacker attacks twice 211
+    >else if defender has quick riposte defender attacks twice 212
+ 
+  >if attacker has >5 spd attacks twice after def and def cannot counterattack 121
+  >if defender has >5 spd attacks twice and atk cannot counterattack 122
+  >else nothing 12
+
+
+211
+
+
+
+112     
+ >if attacker/defender has breaker skill unit attacks twice and foe cannot 11211/1122
+    >if both units have breaker the >speed attacks twice 11211/1122
+    
+  >if attacker has brash assault && defender has quick riposte 112112
+    >else if attacker has brash assault attacker attacks twice 11211
+    >else if defender has quick riposte defender attacks twice 1122
+ 
+  >if attacker has >5 spd attacks twice after def and def cannot counterattack 11211
+  >if defender has >5 spd attacks twice and atk cannot counterattack 1122
+  >else nothing 12
