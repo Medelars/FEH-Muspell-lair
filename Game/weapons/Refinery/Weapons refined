@@ -1,0 +1,18 @@
+[
+
+{
+		"category": "Standard Melee",
+		"name": "Atk Bonus",
+		"description": "Gives plus 5 hp and plus 3 atk",
+		"hp": 5,
+		"atk": 3,
+		"spd": 0,
+		"def": 0,
+		"res": 0,
+		"prereq": "Silver Sword+,Silver Axe+,Silver Lance+,Wo Dao+,Wo Gun+,Giant Spoon+,Harmonic Lance+",
+		"exclusive": ""
+    
+}
+
+
+]
