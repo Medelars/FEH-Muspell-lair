@@ -1,7 +1,9 @@
 //Swords 1-17
 //Red Tome 18-32
-//Lance 33-
-
+//Lance 33-54
+//Green Tome 55-87
+//Blue Tome 88-111
+//Bows 112-
 [
 {
     "weapon_id":1,
@@ -369,7 +371,7 @@
   "skill_up":0
 },
 //End of Redtome 18-32
-//Lance 33-
+//Lance 33-54
 {
   "weapon_id":33,
   "weapon_name":"Iron Lance",
@@ -456,18 +458,807 @@
   "def":0,
   "res":0,
   "weapontype":"Lance",
-  "skill_up":+1
+  "skill_up":-1
 },
 
 {
+  "weapon_id":41,
+  "weapon_name":"Slaying Lance",
+  "hp":0,
+  "atk":10,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Lance",
+  "skill_up":-1
+},
+{
+  "weapon_id":42,
+  "weapon_name":"Slaying Lance+",
+  "hp":0,
+  "atk":14,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Lance",
+  "skill_up":-1
+},
+{
+  "weapon_id":43,
+  "weapon_name":"Heavy Spear",
+  "hp":0,
+  "atk":8,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Lance",
+  "skill_up":0
+},
+{
+  "weapon_id":44,
+  "weapon_name":"Heavy Spear+",
+  "hp":0,
+  "atk":12,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Lance",
+  "skill_up":0
+},
+{
+  "weapon_id":45,
+  "weapon_name":"Slaying Spear",
+  "hp":0,
+  "atk":10,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Lance",
+  "skill_up":0
+},
+{
+  "weapon_id":46,
+  "weapon_name":"Slaying Spear+",
+  "hp":0,
+  "atk":14,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Lance",
+  "skill_up":0
+},
+{
+  "weapon_id":47,
+  "weapon_name":"Ridersbane",
+  "hp":0,
+  "atk":10,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Lance",
+  "skill_up":0
+},
+{
+  "weapon_id":48,
+  "weapon_name":"Ridersbane+",
+  "hp":0,
+  "atk":14,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Lance",
+  "skill_up":0
+},
+{
+  "weapon_id":49,
+  "weapon_name":"Sapphire Lance",
+  "hp":0,
+  "atk":8,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Lance",
+  "skill_up":0
+},
+{
+  "weapon_id":50,
+  "weapon_name":"Sapphire Lance+",
+  "hp":0,
+  "atk":12,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Lance",
+  "skill_up":0
+},
+{
+  "weapon_id":51,
+  "weapon_name":"Firesweep Lance",
+  "hp":0,
+  "atk":11,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Lance",
+  "skill_up":0
+},
+{
+  "weapon_id":52,
+  "weapon_name":"Firesweep Lance+",
+  "hp":0,
+  "atk":15,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Lance",
+  "skill_up":0
+},
+{
+  "weapon_id":53,
+  "weapon_name":"Berkut's Lance",
+  "hp":0,
+  "atk":10,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Lance",
+  "skill_up":0
+},
+{
+  "weapon_id":54,
+  "weapon_name":"Berkut's Lance+",
+  "hp":0,
+  "atk":14,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Lance",
+  "skill_up":0
+},
+//Lance End
+//Axe Start
+{
+  "weapon_id":55,
+  "weapon_name":"Iron Axe",
+  "hp":0,
+  "atk":6,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Axe",
+  "skill_up":0
+},
+{
+  "weapon_id":56,
+  "weapon_name":"Steel Axe",
+  "hp":0,
+  "atk":8,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Axe",
+  "skill_up":0
+},
+{
+  "weapon_id":57,
+  "weapon_name":"Silver Axe",
+  "hp":0,
+  "atk":11,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Axe",
+  "skill_up":0
+},
+{
+  "weapon_id":58,
+  "weapon_name":"Silver Axe+",
+  "hp":0,
+  "atk":15,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Axe",
+  "skill_up":0
+},
+{
+  "weapon_id":59,
+  "weapon_name":"Brave Axe",
+  "hp":0,
+  "atk":5,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Axe",
+  "skill_up":0
+},
+{
+  "weapon_id":60,
+  "weapon_name":"Brave Axe+",
+  "hp":0,
+  "atk":,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Axe",
+  "skill_up":0
+},
+{
+  "weapon_id":61,
+  "weapon_name":"Killer Axe",
+  "hp":0,
+  "atk":7,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Axe",
+  "skill_up":-1
+},
+{
+  "weapon_id":62,
+  "weapon_name":"Killer Axe+",
+  "hp":0,
+  "atk":11,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Axe",
+  "skill_up":-1
+},
+{
+  "weapon_id":63,
+  "weapon_name":"Hammer",
+  "hp":0,
+  "atk":8,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Axe",
+  "skill_up":0
+},
+{
+  "weapon_id":64,
+  "weapon_name":"Hammer+",
+  "hp":0,
+  "atk":12,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Axe",
+  "skill_up":0
+},
+{
+  "weapon_id":65,
+  "weapon_name":"Poleaxe",
+  "hp":0,
+  "atk":10,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Axe",
+  "skill_up":0
+},
+{
+  "weapon_id":66,
+  "weapon_name":"Poleaxe+",
+  "hp":0,
+  "atk":14,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Axe",
+  "skill_up":0
+},
+{
+  "weapon_id":67,
+  "weapon_name":"Emerald Axe",
+  "hp":0,
+  "atk":8,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Axe",
+  "skill_up":0
+},
+{
+  "weapon_id":68,
+  "weapon_name":"Emerald Axe+",
+  "hp":0,
+  "atk":12,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Axe",
+  "skill_up":0
+},
+{
+  "weapon_id":69,
+  "weapon_name":"Legion's Axe",
+  "hp":0,
+  "atk":10,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Axe",
+  "skill_up":0
+},
+{
+  "weapon_id":70,
+  "weapon_name":"Legion's Axe+",
+  "hp":0,
+  "atk":14,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Axe",
+  "skill_up":0
+},
+{
+  "weapon_id":71,
+  "weapon_name":"Sack o' Gifts",
+  "hp":0,
+  "atk":10,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Axe",
+  "skill_up":0
+},
+{
+  "weapon_id":72,
+  "weapon_name":"Sack o' Gifts+",
+  "hp":0,
+  "atk":14,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Axe",
+  "skill_up":0
+},
+//End Axe
+//Green Tome Start
+{
+  "weapon_id":73,
+  "weapon_name":"Wind",
+  "hp":0,
+  "atk":4,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Green Tome",
+  "skill_up":0
+},
+{
+  "weapon_id":74,
+  "weapon_name":"Elwind",
+  "hp":0,
+  "atk":6,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Green Tome",
+  "skill_up":0
+},
+{
+  "weapon_id":75,
+  "weapon_name":"Rexcalibur",
+  "hp":0,
+  "atk":9,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Green Tome",
+  "skill_up":0
+},
+{
+  "weapon_id":76,
+  "weapon_name":"Rexcalibur+",
+  "hp":0,
+  "atk":13,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Green Tome",
+  "skill_up":0
+},
+{
+  "weapon_id":77,
+  "weapon_name":"Gronnblade",
+  "hp":0,
+  "atk":9,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Green Tome",
+  "skill_up":+1
+},
+{
+  "weapon_id":78,
+  "weapon_name":"Gronnblade+",
+  "hp":0,
+  "atk":13,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Green Tome",
+  "skill_up":+1
+},
+{
+  "weapon_id":79,
+  "weapon_name":"Gronnwolf",
+  "hp":0,
+  "atk":6,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Green Tome",
+  "skill_up":0
+},
+{
+  "weapon_id":80,
+  "weapon_name":"Gronnwolf+",
+  "hp":0,
+  "atk":10,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Green Tome",
+  "skill_up":0
+},
+{
+  "weapon_id":81,
+  "weapon_name":"Keen Gronnwolf+",
+  "hp":0,
+  "atk":12,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Green Tome",
+  "skill_up":0
+},
+{
+  "weapon_id":82,
+  "weapon_name":"Gronnraven",
+  "hp":0,
+  "atk":7,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Green Tome",
+  "skill_up":0
+},
+{
+  "weapon_id":83,
+  "weapon_name":"Gronnraven+",
+  "hp":0,
+  "atk":11,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Green Tome",
+  "skill_up":0
+},
+{
+  "weapon_id":84,
+  "weapon_name":"Gronnowl",
+  "hp":0,
+  "atk":6,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Green Tome",
+  "skill_up":0
+},
+{
+  "weapon_id":85,
+  "weapon_name":"Gronnowl+",
+  "hp":0,
+  "atk":10,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Green Tome",
+  "skill_up":0
+},
+{
+  "weapon_id":86,
+  "weapon_name":"Spectral Tome",
+  "hp":0,
+  "atk":8,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Green Tome",
+  "skill_up":0
+},
+{
+  "weapon_id":87,
+  "weapon_name":"Spectral Tome+",
+  "hp":0,
+  "atk":12,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Green Tome",
+  "skill_up":0
+},
+//End Green Tome
+//Start Blue Tome
+{
+  "weapon_id":88,
+  "weapon_name":"Thunder",
+  "hp":0,
+  "atk":4,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Blue Tome",
+  "skill_up":0
+},
+{
+  "weapon_id":89,
+  "weapon_name":"Elthunder",
+  "hp":0,
+  "atk":6,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Blue Tome",
+  "skill_up":0
+},
+{
+  "weapon_id":90,
+  "weapon_name":"Thoron",
+  "hp":0,
+  "atk":9,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Blue Tome",
+  "skill_up":0
+},
+{
+  "weapon_id":91,
+  "weapon_name":"Light",
+  "hp":0,
+  "atk":4,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Blue Tome",
+  "skill_up":0
+},
+{
+  "weapon_id":92,
+  "weapon_name":"Ellight",
+  "hp":0,
+  "atk":6,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Blue Tome",
+  "skill_up":0
+},
+{
+  "weapon_id":93,
+  "weapon_name":"Shine",
+  "hp":0,
+  "atk":9,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Blue Tome",
+  "skill_up":0
+},
+{
+  "weapon_id":94,
+  "weapon_name":"Shine+",
+  "hp":0,
+  "atk":13,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Blue Tome",
+  "skill_up":0
+},
+{
+  "weapon_id":95,
+  "weapon_name":"Blárblade",
+  "hp":0,
+  "atk":9,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Blue Tome",
+  "skill_up":+1
+},
+{
+  "weapon_id":96,
+  "weapon_name":"Blárblade+",
+  "hp":0,
+  "atk":13,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Blue Tome",
+  "skill_up":+1
+},
+{
+  "weapon_id":97,
+  "weapon_name":"Blárwolf",
+  "hp":0,
+  "atk":6,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Blue Tome",
+  "skill_up":0
+},
+{
+  "weapon_id":98,
+  "weapon_name":"Blárwolf+",
+  "hp":0,
+  "atk":10,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Blue Tome",
+  "skill_up":0
+},
+{
+  "weapon_id":99,
+  "weapon_name":"Keen Blárwolf+",
+  "hp":0,
+  "atk":12,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Blue Tome",
+  "skill_up":0
+},
+{
+  "weapon_id":100,
+  "weapon_name":"Blárraven",
+  "hp":0,
+  "atk":7,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Blue Tome",
+  "skill_up":0
+},
+{
+  "weapon_id":101,
+  "weapon_name":"Blárraven+",
+  "hp":0,
+  "atk":11,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Blue Tome",
+  "skill_up":0
+},
+{
+  "weapon_id":102,
+  "weapon_name":"Blárowl",
+  "hp":0,
+  "atk":6,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Blue Tome",
+  "skill_up":0
+},
+{
+  "weapon_id":103,
+  "weapon_name":"Blárowl+",
+  "hp":0,
+  "atk":10,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Blue Tome",
+  "skill_up":0
+},
+{
+  "weapon_id":104,
+  "weapon_name":"Blue Egg",
+  "hp":0,
+  "atk":7,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Blue Tome",
+  "skill_up":0
+},
+{
+  "weapon_id":105,
+  "weapon_name":"Blue Egg+",
+  "hp":0,
+  "atk":11,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Blue Tome",
+  "skill_up":0
+},
+{
+  "weapon_id":106,
+  "weapon_name":"Blue Gift",
+  "hp":0,
+  "atk":8,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Blue Tome",
+  "skill_up":0
+},
+{
+  "weapon_id":107,
+  "weapon_name":"Blue Gift+",
+  "hp":0,
+  "atk":12,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Blue Tome",
+  "skill_up":0
+},
+{
+  "weapon_id":108,
+  "weapon_name":"Blessed Bouquet",
+  "hp":0,
+  "atk":8,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Blue Tome",
+  "skill_up":0
+},
+{
+  "weapon_id":109,
+  "weapon_name":"Blessed Bouquet+",
+  "hp":0,
+  "atk":12,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Blue Tome",
+  "skill_up":0
+},
+{
+  "weapon_id":110,
+  "weapon_name":"Dancer's Score",
+  "hp":0,
+  "atk":8,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Blue Tome",
+  "skill_up":0
+},
+{
+  "weapon_id":111,
+  "weapon_name":"Dancer's Score+",
+  "hp":0,
+  "atk":12,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Blue Tome",
+  "skill_up":0
+},
+//End Blue Tome
+//Bow Start
+{
   "weapon_id":,
   "weapon_name":"",
-  "hp":,
+  "hp":0,
   "atk":,
-  "spd":,
-  "def":,
-  "res":,
-  "weapontype":"Lance",
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Bow",
   "skill_up":0
 },
 ]
