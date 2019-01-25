@@ -1352,4 +1352,103 @@
       "weapontype": "Dragon",
       "skill_up": 0
    },
+         {
+      "weapon_id": 124,
+      "weapon_name": "Fire Breath+",
+      "hp": 0,
+      "atk": 8,
+      "spd": 0,
+      "def": 0,
+      "res": 0,
+      "weapontype": "Dragon",
+      "skill_up": 0
+   },
+         {
+      "weapon_id": 125,
+      "weapon_name": "Light Breath",
+      "hp": 0,
+      "atk": 9,
+      "spd": 0,
+      "def": 0,
+      "res": 0,
+      "weapontype": "Dragon",
+      "skill_up": 0
+   },
+         {
+      "weapon_id": 126,
+      "weapon_name": "Light Breath+",
+      "hp": 0,
+      "atk": 13,
+      "spd": 0,
+      "def": 0,
+      "res": 0,
+      "weapontype": "Dragon",
+      "skill_up": 0
+   },
+         {
+      "weapon_id": 127,
+      "weapon_name": "Dark Breath",
+      "hp": 0,
+      "atk": 9,
+      "spd": 0,
+      "def": 0,
+      "res": 0,
+      "weapontype": "Dragon",
+      "skill_up": 0
+   },
+         {
+      "weapon_id": 128,
+      "weapon_name": "Dark Breath+",
+      "hp": 0,
+      "atk": 13,
+      "spd": 0,
+      "def": 0,
+      "res": 0,
+      "weapontype": "Dragon",
+      "skill_up": 0
+   },
+         {
+      "weapon_id": 129,
+      "weapon_name": "Lightning Breath",
+      "hp": 0,
+      "atk": 7,
+      "spd": 0,
+      "def": 0,
+      "res": 0,
+      "weapontype": "Dragon",
+      "skill_up": 1
+   },
+         {
+      "weapon_id": 130,
+      "weapon_name": "Lightung Breath+",
+      "hp": 0,
+      "atk": 11,
+      "spd": 0,
+      "def": 0,
+      "res": 0,
+      "weapontype": "Dragon",
+      "skill_up": 1
+   },
+         {
+      "weapon_id":131 ,
+      "weapon_name": "Flametongue",
+      "hp": 0,
+      "atk": 8,
+      "spd": 0,
+      "def": 0,
+      "res": 0,
+      "weapontype": "Dragon",
+      "skill_up": 0
+   },
+         {
+      "weapon_id": 132,
+      "weapon_name": "Flametongue+",
+      "hp": 0,
+      "atk": 15,
+      "spd": 0,
+      "def": 0,
+      "res": 0,
+      "weapontype": "Dragon",
+      "skill_up": 0
+   },
 ]
