@@ -192,7 +192,7 @@
 },
 
 {
-  "weapon_id":17
+  "weapon_id":17,
   "weapon_name":"Ruby Sword+",
   "hp":0,
   "atk":12,
@@ -302,7 +302,7 @@
   "def":0,
   "res":0,
   "weapontype":"Redtome",
-  "skill_up":+1
+  "skill_up":1
 },
 {
   "weapon_id":27,
@@ -313,7 +313,7 @@
   "def":0,
   "res":0,
   "weapontype":"Redtome",
-  "skill_up":+1
+  "skill_up":1
 },
 {
   "weapon_id":28,
@@ -676,7 +676,7 @@
   "weapon_id":60,
   "weapon_name":"Brave Axe+",
   "hp":0,
-  "atk":,
+  "atk":8,
   "spd":0,
   "def":0,
   "res":0,
@@ -1251,14 +1251,91 @@
 //End Blue Tome
 //Bow Start
 {
-  "weapon_id":,
-  "weapon_name":"",
+  "weapon_id":112,
+  "weapon_name":"Iron Bow",
   "hp":0,
-  "atk":,
+  "atk":4,
   "spd":0,
   "def":0,
   "res":0,
   "weapontype":"Bow",
   "skill_up":0
 },
+{
+  "weapon_id":113,
+  "weapon_name":"Steel Bow",
+  "hp":0,
+  "atk":6,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Bow",
+  "skill_up":0
+},
+{
+  "weapon_id":114,
+  "weapon_name":"Silver Bow",
+  "hp":0,
+  "atk":9,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Bow",
+  "skill_up":0
+},
+{
+  "weapon_id":115,
+  "weapon_name":"Silver Bow+",
+  "hp":0,
+  "atk":13,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Bow",
+  "skill_up":0
+},
+{
+  "weapon_id":116,
+  "weapon_name":"Brave Bow",
+  "hp":0,
+  "atk":4,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Bow",
+  "skill_up":0
+},
+{
+  "weapon_id":117,
+  "weapon_name":"Brave Bow+",
+  "hp":0,
+  "atk":7,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Bow",
+  "skill_up":0
+},
+{
+  "weapon_id":118,
+  "weapon_name":"Slaying Bow",
+  "hp":0,
+  "atk":8,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Bow",
+  "skill_up":-1
+},
+{
+  "weapon_id":119,
+  "weapon_name":"Slaying Bow+",
+  "hp":0,
+  "atk":12,
+  "spd":0,
+  "def":0,
+  "res":0,
+  "weapontype":"Bow",
+  "skill_up":-1
+}
 ]
