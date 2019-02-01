@@ -1,8 +1,10 @@
+
+<script>
+
 // In the grid 0 means walkable
 //1 is an obstacle where you can cross or stay if you are a flying unit
 //2 means wood where it costs 2 actions to enter if you are infantry or you can't enter if you are cavalry 
 //3 means nothing can stay in the place and no one can cross it
-<script>
 	var map=4;
 switch(map){
 	case 0:
