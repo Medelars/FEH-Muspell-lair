@@ -1,3 +1,4 @@
+
 <script>
 
     // In the grid 0 means walkable
@@ -5,8 +6,28 @@
     //2 means wood where it costs 2 actions to enter if you are infantry or you can't enter if you are cavalry 
     //3 means nothing can stay in the place and no one can cross it
     var map = 0;
+    var x = 6;
+var y = 8;
+var a = 0;
+var xx = 0;
+var yy = 0;
+var mover=0;
+var mxx=0;
+var myy=0;
+// Enemy int
+var enemy1x=0;
+var enemy1y=0;
+var enemy2x=0;
+var enemy2y=0;
+var enemy3x=0;
+var enemy3y=0;
+var enemy4x=0;
+var enemy4y=0;
+
 switch (map) {
     case 0:
+     //Enemy starting points from [0][1] to [0][4] 
+        //Ally starting point from [7][1] to [7][4]
         var grid = [
             [0, 0, 0, 0, 0, 0],
             [0, 0, 0, 0, 0, 0],
@@ -17,6 +38,14 @@ switch (map) {
             [0, 0, 0, 0, 0, 0],
             [0, 0, 0, 0, 0, 0]
         ]
+    enemy1x=4;
+	enemy1y=4;
+	enemy2x=0;
+	enemy2y=2;
+	enemy3x=0;
+	enemy3y=3;
+	enemy4x=0;
+	enemy4y=4;
 
         break;
     case 1:
@@ -94,11 +123,7 @@ switch (map) {
 
         break;
 }
-var x = 6;
-var y = 8;
-var a = 0;
-var xx = 0;
-var yy = 0;
+
 while (a < y) {
 
     var b = 0;
@@ -116,41 +141,81 @@ document.write("<br>");
 
 function enemy1() {
 
-    var xx = 0;
-    var yy = 1;
-    var enemy1 = grid[xx][yy];
-    grid[xx][yy] = 4;
+	grid[enemy1x][enemy1y] = 0; 
+	enemy1x=enemy1x+mxx;
+	enemy1y=enemy1y+myy;
+	
+    var enemy1 =grid[enemy1x][enemy1y];
+    grid[enemy1x][enemy1y] = 6;
 }
 
 function enemy2() {
-    var xx = 0;
-    var yy = 2;
-    var enemy2 = grid[xx][yy];
-    grid[xx][yy] = 4;
+	
+	enemy2x=enemy2x+mxx;
+	enemy2y=enemy2y+myy;
+
+
+
+    var enemy2 = grid[enemy2x][enemy2y];
+    grid[enemy2x][enemy2y] = 5;
 
 }
 
 function enemy3() {
 
-    var xx = 0;
-    var yy = 3;
-    var enemy3 = grid[xx][yy];
-    grid[xx][yy] = 4;
+	enemy3x=enemy3x+mxx;
+	enemy3y=enemy3y+myy;
+
+   
+    var enemy3 = grid[enemy3x][enemy3y];
+    grid[enemy3x][enemy3y] = 4;
 
 }
 
 function enemy4() {
+	enemy4x=enemy4x+mxx;
+	enemy4y=enemy4y+myy;
 
 
-    var enemy4 = grid[xx][yy];
-    grid[xx][yy] = 4;
+    var enemy4 = grid[enemy4x][enemy4y];
+    grid[enemy4x][enemy4y] = 3;
 
 }
 
-enemy4(xx = xx + 1, yy = yy + 4);
+function movimiento(){
+	if (mover==1){
+		mxx=-1;
+		myy=0;
+		
+		}
+	if (mover==2){
+		mxx=0;
+		myy=+1;
+				
+		}
+		if (mover==3){
+		mxx=+1;
+		myy=;
+				
+		}
+		if (mover==4){
+		mxx=0;
+		myy=-1;
+				
+		}
+//   		
+//	 	 1
+//  	203
+//	  	 4
+//	
+	}
+var e1=0;
+var e=0;
+while (e<5){
+	a=0;
+	y=8;
+	x=6;
 
-document.write("<br>");
-var a = 0;
 while (a < y) {
 
     var b = 0;
@@ -161,6 +226,16 @@ while (a < y) {
     document.write("<br>");
     a++;
 
+}document.write("<br>");	e1++;
+enemy1(movimiento(mover=e1));
+e++;
+
 }
+//enemy2(movimiento(mover=8));
+//enemy3(movimiento(mover=12));
+//enemy4(movimiento(mover=7));
+
+document.write("<br>");
+var a = 0;
 
 </script>
