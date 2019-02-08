@@ -1,6 +1,14 @@
 
 <script>
-	// Order: movement unit without skill (killing someone) > Unit with posibility of killing another unit > Rally Skill > Assist Skill > Dance > Unit damaging another unit without counter > Unit damaging another unit and taking damage > Unit attacking another unit and dying
+	// Order: movement unit without skill (killing someone) >
+	// Unit with posibility of killing another unit > 
+	// Rally Skill > 
+	// Assist Skill > 
+	// Dance > 
+	// Unit damaging another unit without counter > 
+	// Unit damaging another unit and taking damage > Unit attacking another unit and dying
+	
+	
     // In the grid 0 means walkable
     //1 is an obstacle where you can cross or stay if you are a flying unit
     //2 means wood where it costs 2 actions to enter if you are infantry or you can't enter if you are cavalry 
