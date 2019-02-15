@@ -159,6 +159,7 @@ function enemy1() {
 
 function enemy2() {
 	
+	grid[enemy2x][enemy2y] = 0; 
 	enemy2x=enemy2x+mxx;
 	enemy2y=enemy2y+myy;
 
@@ -171,6 +172,7 @@ function enemy2() {
 
 function enemy3() {
 
+	grid[enemy3x][enemy3y] = 0; 
 	enemy3x=enemy3x+mxx;
 	enemy3y=enemy3y+myy;
 
@@ -181,6 +183,8 @@ function enemy3() {
 }
 
 function enemy4() {
+	
+	grid[enemy4x][enemy4y] = 0; 
 	enemy4x=enemy4x+mxx;
 	enemy4y=enemy4y+myy;
 
@@ -239,9 +243,7 @@ enemy1(movimiento(mover=e1));
 e++;
 
 }
-//enemy2(movimiento(mover=8));
-//enemy3(movimiento(mover=12));
-//enemy4(movimiento(mover=7));
+
 
 document.write("<br>");
 var a = 0;
