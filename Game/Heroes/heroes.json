@@ -8,7 +8,7 @@
 	"baseres": 22,
 	"color": "Red",
 	"weapontype": "Sword",
-	"movetype": "infantry",
+	"movetype": "infantry"
 },
  {
     "hero:id": 2,
@@ -20,7 +20,7 @@
     "baseres": 34,
     "color": "Red",
     "weapontype": "Sword",
-    "movetype": "flying",
+    "movetype": "flying"
 },{
     "hero:id: 3,
     "name": "Cain",
@@ -31,7 +31,7 @@
     "baseres": 21,
     "color": "Red",
     "weapontype": "Sword",
-    "movetype": "cavalry",
+    "movetype": "cavalry"
 
 },{
     "hero:id: 4,
@@ -43,7 +43,7 @@
     "baseres": 17,
     "color": "Red",
     "weapontype": "Sword",
-    "movetype": "infanty",
+    "movetype": "infanty"
 
 },{
     "hero:id: 5,
@@ -55,7 +55,7 @@
     "baseres": 24,
     "color": "Red",
     "weapontype": "Sword",
-    "movetype": "infantry",
+    "movetype": "infantry"
 
 },{
     "hero:id: 6,
@@ -67,7 +67,7 @@
     "baseres": 18,
     "color": "Red",
     "weapontype": "Sword",
-    "movetype": "armored",
+    "movetype": "armored"
 
 },{
     "hero:id: 7,
@@ -79,7 +79,7 @@
     "baseres": 28,
     "color": "Red",
     "weapontype": "Sword",
-    "movetype": "infantry",
+    "movetype": "infantry"
 
 },{
     "hero:id: 8,
@@ -91,7 +91,7 @@
     "baseres": 19,
     "color": "Red",
     "weapontype": "Sword",
-    "movetype": "cavalry",
+    "movetype": "cavalry"
 
 },{
     "hero:id: 9,
@@ -103,7 +103,7 @@
     "baseres": 32,
     "color": "Red",
     "weapontype": "Sword",
-    "movetype": "cavalry",
+    "movetype": "cavalry"
 
 },{
     "hero:id: 10,
@@ -115,7 +115,7 @@
     "baseres": 31,
     "color": "Red",
     "weapontype": "Sword",
-    "movetype": "infantry",
+    "movetype": "infantry"
 
 },{
     "hero:id: 11,
@@ -127,7 +127,7 @@
     "baseres": 26,
     "color": "Red",
     "weapontype": "Sword",
-    "movetype": "infantry",
+    "movetype": "infantry"
 
 },{
     "hero:id: 12,
@@ -139,7 +139,7 @@
     "baseres": 25,
     "color": "Red",
     "weapontype": "Redtome",
-    "movetype": "infantry",
+    "movetype": "infantry"
 
 },{
     "hero:id: 13,
@@ -151,7 +151,7 @@
     "baseres": 18,
     "color": "Red",
     "weapontype": "Sword",
-    "movetype": "infantry",
+    "movetype": "infantry"
 
 },{
     "hero:id: 14,
@@ -163,7 +163,7 @@
     "baseres": 20,
     "color": "Red",
     "weapontype": "Sword",
-    "movetype": "infantry",
+    "movetype": "infantry"
 
 },{
     "hero:id: 15,
@@ -175,7 +175,7 @@
     "baseres": 22,
     "color": "Red",
     "weapontype": "Sword",
-    "movetype": "infantry",
+    "movetype": "infantry"
 
 },{
     "hero:id: 16,
@@ -187,7 +187,7 @@
     "baseres": 30,
     "color": "Red",
     "weapontype": "Redtome",
-    "movetype": "Cavalry",
+    "movetype": "Cavalry"
 
 },{
     "hero:id: 17,
@@ -199,7 +199,7 @@
     "baseres": 31,
     "color": "Red",
     "weapontype": "Redtome",
-    "movetype": "Infantry",
+    "movetype": "Infantry"
 
 },{
     "hero:id: 18,
@@ -211,7 +211,7 @@
     "baseres": 22,
     "color": "Red",
     "weapontype": "Sword",
-    "movetype": "Infantry",
+    "movetype": "Infantry"
 
 },{
     "hero:id: 19,
@@ -223,7 +223,7 @@
     "baseres": 19,
     "color": "Red",
     "weapontype": "Sword",
-    "movetype": "Infantry",
+    "movetype": "Infantry"
 
 },{
     "hero:id: 20,
@@ -235,11 +235,11 @@
     "baseres": 29,
     "color": "Red",
     "weapontype": "Sword",
-    "movetype": "Infantry",
+    "movetype": "Infantry"
 
 },{
     "hero:id: 21,
-    "name": Marth",
+    "name": "Marth",
     "basehp": 41,
     "baseatk": 31,
     "basespd": 34,
@@ -247,7 +247,7 @@
     "baseres": 23,
     "color": "Red",
     "weapontype": "Sword",
-    "movetype": "Infantry",
+    "movetype": "Infantry"
 
 },{
     "hero:id: 22,
@@ -259,7 +259,7 @@
     "baseres": 13,
     "color": "Red",
     "weapontype": "Sword",
-    "movetype": "Infantry",
+    "movetype": "Infantry"
 
 },{
     "hero:id: 23,
@@ -271,7 +271,7 @@
     "baseres": 26,
     "color": "Red",
     "weapontype": "Sword",
-    "movetype": "Infantry",
+    "movetype": "Infantry"
 
 },{
     "hero:id: 24,
@@ -283,7 +283,7 @@
     "baseres": 26,
     "color": "Red",
     "weapontype": "Sword",
-    "movetype": "Flier",
+    "movetype": "Flier"
 
 },{
     "hero:id: 25,
@@ -295,7 +295,7 @@
     "baseres": 29,
     "color": "Red",
     "weapontype": "Redtome",
-    "movetype": "Infantry",
+    "movetype": "Infantry"
 
 },{
     "hero:id: 26,
@@ -307,7 +307,7 @@
     "baseres": 28,
     "color": "Red",
     "weapontype": "Sword",
-    "movetype": "Infantry",
+    "movetype": "Infantry"
 
 },{
     "hero:id: 27,
@@ -319,7 +319,7 @@
     "baseres": 21,
     "color": "Red",
     "weapontype": "Sword",
-    "movetype": "Infantry",
+    "movetype": "Infantry"
 
 },{
     "hero:id: 28,
@@ -331,7 +331,7 @@
     "baseres": ,
     "color": "Red",
     "weapontype": "Redtome",
-    "movetype": "Infantry",
+    "movetype": "Infantry"
 
 },{
     "hero:id: 29,
@@ -343,7 +343,7 @@
     "baseres": 34,
     "color": "Red",
     "weapontype": "Sword",
-    "movetype": "Infantry",
+    "movetype": "Infantry"
 
 },{
     "hero:id: 30,
@@ -355,7 +355,7 @@
     "baseres": 22,
     "color": "Red",
     "weapontype": "Sword",
-    "movetype": "Infantry",
+    "movetype": "Infantry"
 
 },{
     "hero:id: 31,
@@ -367,7 +367,7 @@
     "baseres": 29,
     "color": "Red",
     "weapontype": "Redtome",
-    "movetype": "Infantry",
+    "movetype": "Infantry"
 
 },{
     "hero:id: 32,
@@ -379,7 +379,7 @@
     "baseres": 22,
     "color": "Red",
     "weapontype": "Sword",
-    "movetype": "Cavalry",
+    "movetype": "Cavalry"
 
 },{
     "hero:id: 33,
@@ -391,7 +391,7 @@
     "baseres": 20,
     "color": "Red",
     "weapontype": "Redtome",
-    "movetype": "Infantry",
+    "movetype": "Infantry"
 
 },{
     "hero:id: 34,
@@ -403,7 +403,7 @@
     "baseres": 24,
     "color": "Red",
     "weapontype": "Dragon",
-    "movetype": "Infantry",
+    "movetype": "Infantry"
 
 },{
     "hero:id: 35,
@@ -415,7 +415,7 @@
     "baseres": 29,
     "color": "Red",
     "weapontype": "Dragon",
-    "movetype": "Infantry",
+    "movetype": "Infantry"
 
 },{
     "hero:id: 36,
@@ -427,7 +427,7 @@
     "baseres": 28,
     "color": "Green",
     "weapontype": "Axe",
-    "movetype": "Infantry",
+    "movetype": "Infantry"
 
 },{
     "hero:id: 37,
@@ -439,7 +439,7 @@
     "baseres": 24,
     "color": "Green",
     "weapontype": "Axe",
-    "movetype": "Infantry",
+    "movetype": "Infantry"
 
 },{
     "hero:id: 38,
@@ -451,7 +451,7 @@
     "baseres": 17,
     "color": "Green",
     "weapontype": "Axe",
-    "movetype": "Infantry",
+    "movetype": "Infantry"
 
 },{
     "hero:id: 39,
@@ -463,7 +463,7 @@
     "baseres": 13,
     "color": "Green",
     "weapontype": "Axe",
-    "movetype": "Infantry",
+    "movetype": "Infantry"
 
 },{
     "hero:id: 40,
@@ -475,7 +475,7 @@
     "baseres": 22,
     "color": "Green",
     "weapontype": "Axe",
-    "movetype": "Flier",
+    "movetype": "Flier"
 
 },{
     "hero:id: 41,
@@ -487,7 +487,7 @@
     "baseres": 31,
     "color": "Green",
     "weapontype": "Axe",
-    "movetype": "Flier",
+    "movetype": "Flier"
 
 },{
     "hero:id: 42,
@@ -499,7 +499,7 @@
     "baseres": 29,
     "color": "Green",
     "weapontype": "Greentome",
-    "movetype": "Cavalry",
+    "movetype": "Cavalry"
 
 },{
     "hero:id: 43,
@@ -511,7 +511,7 @@
     "baseres": 16,
     "color": "Green",
     "weapontype": "Axe",
-    "movetype": "Flier",
+    "movetype": "Flier"
 
 },{
     "hero:id: 44,
@@ -523,7 +523,7 @@
     "baseres": 30,
     "color": "Green",
     "weapontype": "Dragon",
-    "movetype": "Infantry",
+    "movetype": "Infantry"
 
 },{
     "hero:id: 45,
@@ -535,7 +535,7 @@
     "baseres": 14,
     "color": "Green",
     "weapontype": "Axe",
-    "movetype": "Cavalry",
+    "movetype": "Cavalry"
 },{
     "hero:id: 46,
     "name": "Gunter",
@@ -546,7 +546,7 @@
     "baseres": 18,
     "color": "Green",
     "weapontype": "Axe",
-    "movetype": "Cavalry",
+    "movetype": "Cavalry"
 
 },{
     "hero:id: 47,
@@ -558,7 +558,7 @@
     "baseres": 30,
     "color": "Green",
     "weapontype": "Axe",
-    "movetype": "Infantry",
+    "movetype": "Infantry"
 
 },{
     "hero:id: 48,
@@ -570,7 +570,7 @@
     "baseres": 19,
     "color": "Green",
     "weapontype": "Axe",
-    "movetype": "Armored",
+    "movetype": "Armored"
 
 },{
     "hero:id: 49,
@@ -582,7 +582,7 @@
     "baseres": 32,
     "color": "Green",
     "weapontype": "Greentome",
-    "movetype": "Infantry",
+    "movetype": "Infantry"
 
 },{
     "hero:id: 50,
@@ -594,7 +594,7 @@
     "baseres": 19,
     "color": "Green",
     "weapontype": "Greentome",
-    "movetype": "Infantry",
+    "movetype": "Infantry"
 
 },{
     "hero:id: 51,
@@ -606,7 +606,7 @@
     "baseres": 22,
     "color": "Green",
     "weapontype": "Axe",
-    "movetype": "Flier",
+    "movetype": "Flier"
 
 },{
     "hero:id: 52,
@@ -618,7 +618,7 @@
     "baseres": 26,
     "color": "Green",
     "weapontype": "Axe",
-    "movetype": "Flier",
+    "movetype": "Flier"
 
 },{
     "hero:id: 53,
@@ -630,7 +630,7 @@
     "baseres": 26,
     "color": "Green",
     "weapontype": "Greentome",
-    "movetype": "Infantry",
+    "movetype": "Infantry"
 
 },{
     "hero:id: 54,
@@ -642,7 +642,7 @@
     "baseres": 22,
     "color": "Green",
     "weapontype": "Axe",
-    "movetype": "Infantry",
+    "movetype": "Infantry"
 
 },{
     "hero:id: 55,
@@ -654,7 +654,7 @@
     "baseres": 22,
     "color": "Green",
     "weapontype": "Greentome",
-    "movetype": "Infantry",
+    "movetype": "Infantry"
 
 },{
     "hero:id: 56,
@@ -666,7 +666,7 @@
     "baseres": 33,
     "color": "Green",
     "weapontype": "Axe",
-    "movetype": "Infantry",
+    "movetype": "Infantry"
 
 },{
     "hero:id: 57,
@@ -678,7 +678,7 @@
     "baseres": 25,
     "color": "Blue",
     "weapontype": "Lance",
-    "movetype": "Cavalry",
+    "movetype": "Cavalry"
 
 },{
     "hero:id: 58,
@@ -690,7 +690,7 @@
     "baseres": 28,
     "color": "Blue",
     "weapontype": "Lance",
-    "movetype": "Infantry",
+    "movetype": "Infantry"
 
 },{
     "hero:id: 59,
@@ -702,7 +702,7 @@
     "baseres": 25,
     "color": "Blue",
     "weapontype": "Lance",
-    "movetype": "Flier",
+    "movetype": "Flier"
 
 },{
     "hero:id: 60,
@@ -714,7 +714,7 @@
     "baseres": 25,
     "color": "Blue",
     "weapontype": "Lance",
-    "movetype": "Flier",
+    "movetype": "Flier"
 
 },{
     "hero:id: 61,
@@ -726,7 +726,7 @@
     "baseres": 21,
     "color": "Blue",
     "weapontype": "Dragon",
-    "movetype": "Infantry",
+    "movetype": "Infantry"
 
 },{
     "hero:id: 62,
@@ -738,7 +738,7 @@
     "baseres": 23,
     "color": "Blue",
     "weapontype": "Lance",
-    "movetype": "Infantry",
+    "movetype": "Infantry"
 
 },{
     "hero:id: 63,
@@ -750,7 +750,7 @@
     "baseres": 23,
     "color": "Blue",
     "weapontype": "Lance",
-    "movetype": "Armored",
+    "movetype": "Armored"
 
 },{
     "hero:id: 64,
@@ -762,7 +762,7 @@
     "baseres": 20,
     "color": "Blue",
     "weapontype": "Lance",
-    "movetype": "Infantry",
+    "movetype": "Infantry"
 
 },{
     "hero:id: 65,
@@ -774,7 +774,7 @@
     "baseres": 32,
     "color": "Blue",
     "weapontype": "Lance",
-    "movetype": "Flier",
+    "movetype": "Flier"
 
 },{
     "hero:id: 66,
@@ -786,7 +786,7 @@
     "baseres": 34,
     "color": "Blue",
     "weapontype": "Lance",
-    "movetype": "Flier",
+    "movetype": "Flier"
 
 },{
     "hero:id: 67,
@@ -798,7 +798,7 @@
     "baseres": 28,
     "color": "Blue",
     "weapontype": "Lance",
-    "movetype": "Armored",
+    "movetype": "Armored"
 
 },{
     "hero:id: 68,
@@ -810,7 +810,7 @@
     "baseres": 24,
     "color": "Blue",
     "weapontype": "Lance",
-    "movetype": "Flier",
+    "movetype": "Flier"
 
 },{
     "hero:id: 69,
@@ -822,7 +822,7 @@
     "baseres": 35,
     "color": "Blue",
     "weapontype": "Lance",
-    "movetype": "Cavalry",
+    "movetype": "Cavalry"
 
 },{
     "hero:id: 70,
@@ -834,7 +834,7 @@
     "baseres": 27,
     "color": "Blue",
     "weapontype": "Bluetome",
-    "movetype": "Infantry",
+    "movetype": "Infantry"
 
 },{
     "hero:id: 71,
@@ -846,7 +846,7 @@
     "baseres": 27,
     "color": "Blue",
     "weapontype": "Dragon",
-    "movetype": "Infantry",
+    "movetype": "Infantry"
 
 },{
     "hero:id: 72,
@@ -858,7 +858,7 @@
     "baseres": 27,
     "color": "Blue",
     "weapontype": "Dragon",
-    "movetype": "Infantry",
+    "movetype": "Infantry"
 
 },{
     "hero:id: 73,
@@ -870,7 +870,7 @@
     "baseres": 24,
     "color": "Blue",
     "weapontype": "Lance",
-    "movetype": "Infantry",
+    "movetype": "Infantry"
 },{
     "hero:id: 74,
     "name": "Odin",
@@ -881,7 +881,7 @@
     "baseres": 25,
     "color": "Blue",
     "weapontype": "Bluetome",
-    "movetype": "Infantry",
+    "movetype": "Infantry"
 
 },{
     "hero:id: 75,
@@ -893,7 +893,7 @@
     "baseres": 30,
     "color": "Blue",
     "weapontype": "Bluetome",
-    "movetype": "Cavalry",
+    "movetype": "Cavalry"
 
 },{
     "hero:id: 76,
@@ -905,7 +905,7 @@
     "baseres": 30,
     "color": "Blue",
     "weapontype": "Lance",
-    "movetype": "Cavalry",
+    "movetype": "Cavalry"
 
 },{
     "hero:id: 77,
@@ -917,7 +917,7 @@
     "baseres": 25,
     "color": "Blue",
     "weapontype": "Bluetome",
-    "movetype": "Cavalry",
+    "movetype": "Cavalry"
 
 },{
     "hero:id: 78,
@@ -929,7 +929,7 @@
     "baseres": 22,
     "color": "Blue",
     "weapontype": "Lance",
-    "movetype": "Infantry",
+    "movetype": "Infantry"
 
 },{
     "hero:id: 79,
@@ -941,7 +941,7 @@
     "baseres": 29,
     "color": "Blue",
     "weapontype": "Lance",
-    "movetype": "Flier",
+    "movetype": "Flier"
 },{
     "hero:id: 80,
     "name": "Sharena",
@@ -952,7 +952,7 @@
     "baseres": ,
     "color": "",
     "weapontype": "",
-    "movetype": "",
+    "movetype": ""
 
 },{
     "hero:id: 81,
@@ -964,7 +964,7 @@
     "baseres": ,
     "color": "",
     "weapontype": "",
-    "movetype": "",
+    "movetype": ""
 
 },{
     "hero:id: 82,
@@ -976,7 +976,7 @@
     "baseres": ,
     "color": "",
     "weapontype": "",
-    "movetype": "",
+    "movetype": ""
 
 },{
     "hero:id: 83,
@@ -988,7 +988,7 @@
     "baseres": ,
     "color": "",
     "weapontype": "",
-    "movetype": "",
+    "movetype": ""
 
 },{
     "hero:id: 84,
@@ -1000,7 +1000,7 @@
     "baseres": ,
     "color": "",
     "weapontype": "",
-    "movetype": "",
+    "movetype": ""
 
 },{
     "hero:id: 85,
@@ -1012,7 +1012,7 @@
     "baseres": ,
     "color": "",
     "weapontype": "",
-    "movetype": "",
+    "movetype": ""
 
 },{
     "hero:id: 86,
@@ -1024,7 +1024,7 @@
     "baseres": ,
     "color": "",
     "weapontype": "",
-    "movetype": "",
+    "movetype": ""
 
 },{
     "hero:id: 87,
@@ -1036,7 +1036,7 @@
     "baseres": ,
     "color": "",
     "weapontype": "",
-    "movetype": "",
+    "movetype": ""
 
 },{
     "hero:id: 88,
@@ -1048,7 +1048,7 @@
     "baseres": ,
     "color": "",
     "weapontype": "",
-    "movetype": "",
+    "movetype": ""
 
 },{
     "hero:id: 89,
@@ -1060,7 +1060,7 @@
     "baseres": ,
     "color": "",
     "weapontype": "",
-    "movetype": "",
+    "movetype": ""
 
 },{
     "hero:id: 90,
@@ -1072,7 +1072,7 @@
     "baseres": ,
     "color": "",
     "weapontype": "",
-    "movetype": "",
+    "movetype": ""
 
 },{
     "hero:id: 91,
@@ -1084,7 +1084,7 @@
     "baseres": ,
     "color": "",
     "weapontype": "",
-    "movetype": "",
+    "movetype": ""
 
 },{
     "hero:id: 92,
@@ -1096,7 +1096,7 @@
     "baseres": ,
     "color": "",
     "weapontype": "",
-    "movetype": "",
+    "movetype": ""
 
 },{
     "hero:id: 93,
@@ -1108,7 +1108,7 @@
     "baseres": ,
     "color": "",
     "weapontype": "",
-    "movetype": "",
+    "movetype": ""
 
 },{
     "hero:id: 94,
@@ -1120,7 +1120,7 @@
     "baseres": ,
     "color": "",
     "weapontype": "",
-    "movetype": "",
+    "movetype": ""
 
 },{
     "hero:id: 95,
@@ -1132,7 +1132,7 @@
     "baseres": ,
     "color": "",
     "weapontype": "",
-    "movetype": "",
+    "movetype": ""
 
 },{
     "hero:id: 96,
@@ -1144,7 +1144,7 @@
     "baseres": ,
     "color": "",
     "weapontype": "",
-    "movetype": "",
+    "movetype": ""
 
 },{
     "hero:id: 97,
@@ -1156,7 +1156,7 @@
     "baseres": ,
     "color": "",
     "weapontype": "",
-    "movetype": "",
+    "movetype": ""
 
 },{
     "hero:id: 98,
@@ -1168,7 +1168,7 @@
     "baseres": ,
     "color": "",
     "weapontype": "",
-    "movetype": "",
+    "movetype": ""
 
 },{
     "hero:id: 99,
@@ -1180,7 +1180,7 @@
     "baseres": ,
     "color": "",
     "weapontype": "",
-    "movetype": "",
+    "movetype": ""
 
 },{
     "hero:id: 100,
@@ -1192,7 +1192,7 @@
     "baseres": ,
     "color": "",
     "weapontype": "",
-    "movetype": "",
+    "movetype": ""
 
 },{
     "hero:id: 101,
@@ -1204,139 +1204,7 @@
     "baseres": ,
     "color": "",
     "weapontype": "",
-    "movetype": "",
-
-},{
-    "hero:id: 102,
-    "name": "",
-    "basehp": ,
-    "baseatk": ,
-    "basespd": ,
-    "basedef": ,
-    "baseres": ,
-    "color": "",
-    "weapontype": "",
-    "movetype": "",
-
-},{
-    "hero:id: 103,
-    "name": "",
-    "basehp": ,
-    "baseatk": ,
-    "basespd": ,
-    "basedef": ,
-    "baseres": ,
-    "color": "",
-    "weapontype": "",
-    "movetype": "",
-
-},{
-    "hero:id: 104,
-    "name": "",
-    "basehp": ,
-    "baseatk": ,
-    "basespd": ,
-    "basedef": ,
-    "baseres": ,
-    "color": "",
-    "weapontype": "",
-    "movetype": "",
-
-},{
-    "hero:id: 105,
-    "name": "",
-    "basehp": ,
-    "baseatk": ,
-    "basespd": ,
-    "basedef": ,
-    "baseres": ,
-    "color": "",
-    "weapontype": "",
-    "movetype": "",
-
-},{
-    "hero:id: 106,
-    "name": "",
-    "basehp": ,
-    "baseatk": ,
-    "basespd": ,
-    "basedef": ,
-    "baseres": ,
-    "color": "",
-    "weapontype": "",
-    "movetype": "",
-
-},{
-    "hero:id: 107,
-    "name": "",
-    "basehp": ,
-    "baseatk": ,
-    "basespd": ,
-    "basedef": ,
-    "baseres": ,
-    "color": "",
-    "weapontype": "",
-    "movetype": "",
-
-},{
-    "hero:id: 108,
-    "name": "",
-    "basehp": ,
-    "baseatk": ,
-    "basespd": ,
-    "basedef": ,
-    "baseres": ,
-    "color": "",
-    "weapontype": "",
-    "movetype": "",
-
-},{
-    "hero:id: 109,
-    "name": "",
-    "basehp": ,
-    "baseatk": ,
-    "basespd": ,
-    "basedef": ,
-    "baseres": ,
-    "color": "",
-    "weapontype": "",
-    "movetype": "",
-
-},{
-    "hero:id: 110,
-    "name": "",
-    "basehp": ,
-    "baseatk": ,
-    "basespd": ,
-    "basedef": ,
-    "baseres": ,
-    "color": "",
-    "weapontype": "",
-    "movetype": "",
-
-},{
-    "hero:id: 111,
-    "name": "",
-    "basehp": ,
-    "baseatk": ,
-    "basespd": ,
-    "basedef": ,
-    "baseres": ,
-    "color": "",
-    "weapontype": "",
-    "movetype": "",
-
-},{
-    "hero:id: 112,
-    "name": "",
-    "basehp": ,
-    "baseatk": ,
-    "basespd": ,
-    "basedef": ,
-    "baseres": ,
-    "color": "",
-    "weapontype": "",
-    "movetype": "",
+    "movetype": ""
 
 },{
     "hero:id: ,
@@ -1506,76 +1374,4 @@
     "weapontype": "",
     "movetype": "",
 
-},{
-    "hero:id: ,
-    "name": "",
-    "basehp": ,
-    "baseatk": ,
-    "basespd": ,
-    "basedef": ,
-    "baseres": ,
-    "color": "",
-    "weapontype": "",
-    "movetype": "",
-
-},{
-    "hero:id: ,
-    "name": "",
-    "basehp": ,
-    "baseatk": ,
-    "basespd": ,
-    "basedef": ,
-    "baseres": ,
-    "color": "",
-    "weapontype": "",
-    "movetype": "",
-
-},{
-    "hero:id: ,
-    "name": "",
-    "basehp": ,
-    "baseatk": ,
-    "basespd": ,
-    "basedef": ,
-    "baseres": ,
-    "color": "",
-    "weapontype": "",
-    "movetype": "",
-
-},{
-    "hero:id: ,
-    "name": "",
-    "basehp": ,
-    "baseatk": ,
-    "basespd": ,
-    "basedef": ,
-    "baseres": ,
-    "color": "",
-    "weapontype": "",
-    "movetype": "",
-
-},{
-    "hero:id: ,
-    "name": "",
-    "basehp": ,
-    "baseatk": ,
-    "basespd": ,
-    "basedef": ,
-    "baseres": ,
-    "color": "",
-    "weapontype": "",
-    "movetype": "",
-
-},{
-    "hero:id: ,
-    "name": "",
-    "basehp": ,
-    "baseatk": ,
-    "basespd": ,
-    "basedef": ,
-    "baseres": ,
-    "color": "",
-    "weapontype": "",
-    "movetype": "",
-
-}
+},
