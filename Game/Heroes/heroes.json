@@ -8,7 +8,7 @@
 	"baseres": 22,
 	"color": "Red",
 	"weapontype": "Sword",
-	"movetype": "infantry"
+	"movetype": "infantry",
 },
  {
     "hero:id": 2,
