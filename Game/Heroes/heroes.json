@@ -8,8 +8,9 @@
 	"baseres": 22,
 	"color": "Red",
 	"weapontype": "Sword",
-	"movetype": "infantry",
-},{
+	"movetype": "infantry"
+},
+ {
     "hero:id": 2,
     "name": "Caeda",
     "basehp": 36,
@@ -1111,7 +1112,7 @@
 
 },{
     "hero:id: 94,
-    "name": Klein",
+    "name": "Klein",
     "basehp": ,
     "baseatk": ,
     "basespd": ,
