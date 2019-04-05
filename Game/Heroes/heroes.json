@@ -945,266 +945,266 @@
 },{
     "hero:id": 80,
     "name": "Sharena",
-    "basehp": ,
-    "baseatk": ,
-    "basespd": ,
-    "basedef": ,
-    "baseres": ,
-    "color": "",
-    "weapontype": "",
-    "movetype": ""
+    "basehp": 43,
+    "baseatk": 32,
+    "basespd": 32,
+    "basedef": 29,
+    "baseres": 22,
+    "color": "Blue",
+    "weapontype": "Lance",
+    "movetype": "Infantry"
 
 },{
     "hero:id": 81,
     "name": "Subaki",
-    "basehp": ,
-    "baseatk": ,
-    "basespd": ,
-    "basedef": ,
-    "baseres": ,
-    "color": "",
-    "weapontype": "",
-    "movetype": ""
+    "basehp": 40,
+    "baseatk": 25,
+    "basespd": 35,
+    "basedef": 35,
+    "baseres": 22,
+    "color": "Blue",
+    "weapontype": "Lance",
+    "movetype": "Flier"
 
 },{
     "hero:id": 82,
     "name": "Sully",
-    "basehp": ,
-    "baseatk": ,
-    "basespd": ,
-    "basedef": ,
-    "baseres": ,
-    "color": "",
-    "weapontype": "",
-    "movetype": ""
+    "basehp": 42,
+    "baseatk": 26,
+    "basespd": 34,
+    "basedef": 24,
+    "baseres": 28,
+    "color": "Blue",
+    "weapontype": "Lance",
+    "movetype": "Cavalry"
 
 },{
     "hero:id": 83,
     "name": "Ursula",
-    "basehp": ,
-    "baseatk": ,
-    "basespd": ,
-    "basedef": ,
-    "baseres": ,
-    "color": "",
-    "weapontype": "",
-    "movetype": ""
+    "basehp": 42,
+    "baseatk": 26,
+    "basespd": 34,
+    "basedef": 24,
+    "baseres": 28,
+    "color": "Blue",
+    "weapontype": "bluetome",
+    "movetype": "Cavalry"
 
 },{
     "hero:id": 84,
     "name": "Azama",
-    "basehp": ,
-    "baseatk": ,
-    "basespd": ,
-    "basedef": ,
-    "baseres": ,
-    "color": "",
-    "weapontype": "",
-    "movetype": ""
+    "basehp": 43,
+    "baseatk": 21,
+    "basespd": 26,
+    "basedef": 32,
+    "baseres": 25,
+    "color": "Grey",
+    "weapontype": "Staff",
+    "movetype": "Infantry"
 
 },{
     "hero:id": 85,
     "name": "Clarine",
-    "basehp": ,
-    "baseatk": ,
-    "basespd": ,
-    "basedef": ,
-    "baseres": ,
-    "color": "",
-    "weapontype": "",
-    "movetype": ""
+    "basehp": 35,
+    "baseatk": 25,
+    "basespd": 33,
+    "basedef": 22,
+    "baseres": 29,
+    "color": "Grey",
+    "weapontype": "Staff",
+    "movetype": "Cavalry"
 
 },{
     "hero:id": 86,
     "name": "Elise",
-    "basehp": ,
-    "baseatk": ,
-    "basespd": ,
-    "basedef": ,
-    "baseres": ,
-    "color": "",
-    "weapontype": "",
-    "movetype": ""
+    "basehp": 30,
+    "baseatk": 32,
+    "basespd": 32,
+    "basedef": 19,
+    "baseres": 32,
+    "color": "Grey",
+    "weapontype": "Staff",
+    "movetype": "Cavalry"
 
 },{
     "hero:id": 87,
     "name": "Felicia",
-    "basehp": ,
-    "baseatk": ,
-    "basespd": ,
-    "basedef": ,
-    "baseres": ,
-    "color": "",
-    "weapontype": "",
-    "movetype": ""
+    "basehp": 34,
+    "baseatk": 23,
+    "basespd": 37,
+    "basedef": 18,
+    "baseres": 35,
+    "color": "Grey",
+    "weapontype": "Dagger",
+    "movetype": "Infantry"
 
 },{
     "hero:id": 88,
     "name": "Gaius",
-    "basehp": ,
-    "baseatk": ,
-    "basespd": ,
-    "basedef": ,
-    "baseres": ,
-    "color": "",
-    "weapontype": "",
-    "movetype": ""
+    "basehp": 42,
+    "baseatk": 29,
+    "basespd": 36,
+    "basedef": 22,
+    "baseres": 19,
+    "color": "Grey",
+    "weapontype": "Dagger",
+    "movetype": "Infantry"
 
 },{
     "hero:id": 89,
     "name": "Gordin",
-    "basehp": ,
-    "baseatk": ,
-    "basespd": ,
-    "basedef": ,
-    "baseres": ,
-    "color": "",
-    "weapontype": "",
-    "movetype": ""
+    "basehp": 43,
+    "baseatk": 31,
+    "basespd": 25,
+    "basedef": 32,
+    "baseres": 17,
+    "color": "Grey",
+    "weapontype": "Bow",
+    "movetype": "Infantry"
 
 },{
     "hero:id": 90,
     "name": "Jaffar",
-    "basehp": ,
-    "baseatk": ,
-    "basespd": ,
-    "basedef": ,
-    "baseres": ,
-    "color": "",
-    "weapontype": "",
-    "movetype": ""
+    "basehp": 41,
+    "baseatk": 26,
+    "basespd": 33,
+    "basedef": 25,
+    "baseres": 22,
+    "color": "Grey",
+    "weapontype": "Dagger",
+    "movetype": "Infantry"
 
 },{
     "hero:id": 91,
     "name": "Jackob",
-    "basehp": ,
-    "baseatk": ,
-    "basespd": ,
-    "basedef": ,
-    "baseres": ,
-    "color": "",
-    "weapontype": "",
-    "movetype": ""
+    "basehp": 39,
+    "baseatk": 29,
+    "basespd": 31,
+    "basedef": 25,
+    "baseres": 24,
+    "color": "Grey",
+    "weapontype": "Dagger",
+    "movetype": "Infantry"
 
 },{
     "hero:id": 92,
     "name": "Jeorge",
-    "basehp": ,
-    "baseatk": ,
-    "basespd": ,
-    "basedef": ,
-    "baseres": ,
-    "color": "",
-    "weapontype": "",
-    "movetype": ""
+    "basehp": 37,
+    "baseatk": 32,
+    "basespd": 32,
+    "basedef": 24,
+    "baseres": 22,
+    "color": "Grey",
+    "weapontype": "Bow",
+    "movetype": "Infantry"
 
 },{
     "hero:id": 93,
     "name": "Kagero",
-    "basehp": ,
-    "baseatk": ,
-    "basespd": ,
-    "basedef": ,
-    "baseres": ,
-    "color": "",
-    "weapontype": "",
-    "movetype": ""
+    "basehp": 31,
+    "baseatk": 35,
+    "basespd": 32,
+    "basedef": 22,
+    "baseres": 28,
+    "color": "Grey",
+    "weapontype": "Dagger",
+    "movetype": "Infantry"
 
 },{
     "hero:id": 94,
     "name": "Klein",
-    "basehp": ,
-    "baseatk": ,
-    "basespd": ,
-    "basedef": ,
-    "baseres": ,
-    "color": "",
-    "weapontype": "",
-    "movetype": ""
+    "basehp": 40,
+    "baseatk": 31,
+    "basespd": 33,
+    "basedef": 20,
+    "baseres": 24,
+    "color": "Grey",
+    "weapontype": "Bow",
+    "movetype": "Infantry"
 
 },{
     "hero:id": 95,
     "name": "Lachesis",
-    "basehp": ,
-    "baseatk": ,
-    "basespd": ,
-    "basedef": ,
-    "baseres": ,
-    "color": "",
-    "weapontype": "",
-    "movetype": ""
+    "basehp": 39,
+    "baseatk": 32,
+    "basespd": 25,
+    "basedef": 22,
+    "baseres": 30,
+    "color": "Grey",
+    "weapontype": "Staff",
+    "movetype": "Infantry"
 
 },{
     "hero:id": 96,
     "name": "Lissa",
-    "basehp": ,
-    "baseatk": ,
-    "basespd": ,
-    "basedef": ,
-    "baseres": ,
-    "color": "",
-    "weapontype": "",
-    "movetype": ""
+    "basehp": 39,
+    "baseatk": 26,
+    "basespd": 25,
+    "basedef": 28,
+    "baseres": 30,
+    "color": "Grey",
+    "weapontype": "Staff",
+    "movetype": "Infantry"
 
 },{
     "hero:id": 97,
     "name": "Lucius",
-    "basehp": ,
-    "baseatk": ,
-    "basespd": ,
-    "basedef": ,
-    "baseres": ,
-    "color": "",
-    "weapontype": "",
-    "movetype": ""
+    "basehp": 37,
+    "baseatk": 32,
+    "basespd": 30,
+    "basedef": 13,
+    "baseres": 35,
+    "color": "Grey",
+    "weapontype": "Staff",
+    "movetype": "Infantry"
 
 },{
     "hero:id": 98,
     "name": "Maria",
-    "basehp": ,
-    "baseatk": ,
-    "basespd": ,
-    "basedef": ,
-    "baseres": ,
-    "color": "",
-    "weapontype": "",
-    "movetype": ""
+    "basehp": 36,
+    "baseatk": 27,
+    "basespd": 34,
+    "basedef": 19,
+    "baseres": 32,
+    "color": "Grey",
+    "weapontype": "Staff",
+    "movetype": "Infantry"
 
 },{
     "hero:id": 99,
     "name": "Matthew",
-    "basehp": ,
-    "baseatk": ,
-    "basespd": ,
-    "basedef": ,
-    "baseres": ,
-    "color": "",
-    "weapontype": "",
-    "movetype": ""
+    "basehp": 41,
+    "baseatk": 25,
+    "basespd": 34,
+    "basedef": 30,
+    "baseres": 18,
+    "color": "Grey",
+    "weapontype": "Dagger",
+    "movetype": "Infantry"
 
 },{
     "hero:id": 100,
     "name": "Niles",
-    "basehp": ,
-    "baseatk": ,
-    "basespd": ,
-    "basedef": ,
-    "baseres": ,
-    "color": "",
-    "weapontype": "",
-    "movetype": ""
+    "basehp": 37,
+    "baseatk": 25,
+    "basespd": 34,
+    "basedef": 17,
+    "baseres": 34,
+    "color": "Grey",
+    "weapontype": "Bow",
+    "movetype": "Infantry"
 
 },{
     "hero:id": 101,
     "name": "Priscilla",
-    "basehp": ,
-    "baseatk": ,
-    "basespd": ,
-    "basedef": ,
-    "baseres": ,
-    "color": "",
-    "weapontype": "",
-    "movetype": ""
+    "basehp": 36,
+    "baseatk": 29,
+    "basespd": 29,
+    "basedef": 19,
+    "baseres": 32,
+    "color": "Grey",
+    "weapontype": "Staff",
+    "movetype": "Cavalry"
 
 },{
     "hero:id": ,
