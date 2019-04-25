@@ -309,7 +309,8 @@
     "weapontype": "Sword",
     "movetype": "Infantry"
 
-},{
+3,
+"basespd": 22},{
     "hero:id": 27,
     "name": "Ryoma",
     "basehp": 41,
@@ -552,7 +553,7 @@
     "hero:id": 47,
     "name": "Hawkeye",
     "basehp": 45,
-    "baseatk": .33,
+    "baseatk": 33,
     "basespd": 22,
     "basedef": 28,
     "baseres": 30,
